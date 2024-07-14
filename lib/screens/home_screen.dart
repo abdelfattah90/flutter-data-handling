@@ -3,6 +3,8 @@ import 'load_data/models/product.dart';
 import 'load_data/local_data_screen.dart';
 import 'load_data/url_data_screen.dart';
 
+import 'search/search_url_screen.dart';
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
@@ -49,6 +51,18 @@ class _HomeScreenState extends State<HomeScreen> {
                 );
               },
               child: const Text('Load Data from URL'),
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SearchUrlScreen(),
+                  ),
+                );
+              },
+              child: const Text('Search Data from Url'),
             ),
           ],
         ),
