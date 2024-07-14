@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "productName": "MacBook 13",
+    "productDescription": "Latest model with improved features.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2023-11-21"
+  },
+  {
+    "id": 2,
+    "productName": "Mac Pro 6",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2024-10-07"
+  },
+  {
+    "id": 3,
+    "productName": "Mac Mini 4",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2024-05-27"
+  },
+  {
+    "id": 4,
+    "productName": "iPad 15",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-08-26"
+  },
+  {
+    "id": 5,
+    "productName": "Mac Mini 14",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-08-10"
+  },
+  {
+    "id": 6,
+    "productName": "iPhone 5",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2023-02-17"
+  },
+  {
+    "id": 7,
+    "productName": "HomePod 10",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-12-08"
+  },
+  {
+    "id": 8,
+    "productName": "iPhone 9",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2023-02-28"
+  },
+  {
+    "id": 9,
+    "productName": "Mac Mini 15",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-04-19"
+  },
+  {
+    "id": 10,
+    "productName": "Mac Mini 5",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2023-04-12"
+  },
+  {
+    "id": 11,
+    "productName": "iMac 12",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2024-10-27"
+  },
+  {
+    "id": 12,
+    "productName": "Mac Mini 12",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2023-03-15"
+  },
+  {
+    "id": 13,
+    "productName": "Apple TV 14",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-08-10"
+  },
+  {
+    "id": 14,
+    "productName": "Mac Mini 2",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2024-05-26"
+  },
+  {
+    "id": 15,
+    "productName": "HomePod 7",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-04-26"
+  },
+  {
+    "id": 16,
+    "productName": "Mac Pro 9",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-03-19"
+  },
+  {
+    "id": 17,
+    "productName": "MacBook 6",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2024-04-12"
+  },
+  {
+    "id": 18,
+    "productName": "Mac Mini 11",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2024-03-08"
+  },
+  {
+    "id": 19,
+    "productName": "iPhone 12",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2024-11-26"
+  },
+  {
+    "id": 20,
+    "productName": "Mac Mini 11",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2023-01-24"
+  },
+  {
+    "id": 21,
+    "productName": "HomePod 11",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-06-14"
+  },
+  {
+    "id": 22,
+    "productName": "Mac Mini 1",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2023-05-29"
+  },
+  {
+    "id": 23,
+    "productName": "Apple Watch 1",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2024-01-25"
+  },
+  {
+    "id": 24,
+    "productName": "iPad 15",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2024-06-21"
+  },
+  {
+    "id": 25,
+    "productName": "Mac Mini 2",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2024-03-03"
+  },
+  {
+    "id": 26,
+    "productName": "MacBook 6",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2024-09-17"
+  },
+  {
+    "id": 27,
+    "productName": "iMac 15",
+    "productDescription": "Latest model with improved features.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2023-06-25"
+  },
+  {
+    "id": 28,
+    "productName": "Apple TV 7",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2023-02-21"
+  },
+  {
+    "id": 29,
+    "productName": "Mac Pro 8",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2024-07-16"
+  },
+  {
+    "id": 30,
+    "productName": "Apple TV 3",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2024-09-25"
+  },
+  {
+    "id": 31,
+    "productName": "iPhone 4",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2023-04-16"
+  },
+  {
+    "id": 32,
+    "productName": "Apple Watch 12",
+    "productDescription": "Latest model with improved features.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-01-19"
+  },
+  {
+    "id": 33,
+    "productName": "Apple TV 2",
+    "productDescription": "Latest model with improved features.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2023-08-08"
+  },
+  {
+    "id": 34,
+    "productName": "iPhone 14",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-02-17"
+  },
+  {
+    "id": 35,
+    "productName": "Apple Watch 7",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-11-13"
+  },
+  {
+    "id": 36,
+    "productName": "iMac 8",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-09-10"
+  },
+  {
+    "id": 37,
+    "productName": "HomePod 14",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2024-03-09"
+  },
+  {
+    "id": 38,
+    "productName": "iMac 13",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-03-22"
+  },
+  {
+    "id": 39,
+    "productName": "MacBook 6",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2024-07-12"
+  },
+  {
+    "id": 40,
+    "productName": "Apple Watch 6",
+    "productDescription": "Latest model with improved features.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2024-02-18"
+  },
+  {
+    "id": 41,
+    "productName": "iMac 10",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2024-04-19"
+  },
+  {
+    "id": 42,
+    "productName": "Mac Mini 11",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Tablets",
+    "categoryID": 103,
+    "dateCreate": "2024-08-27"
+  },
+  {
+    "id": 43,
+    "productName": "Mac Pro 5",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2024-01-14"
+  },
+  {
+    "id": 44,
+    "productName": "HomePod 2",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2024-07-18"
+  },
+  {
+    "id": 45,
+    "productName": "iPhone 9",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Wearables",
+    "categoryID": 104,
+    "dateCreate": "2023-06-15"
+  },
+  {
+    "id": 46,
+    "productName": "MacBook 15",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2023-05-24"
+  },
+  {
+    "id": 47,
+    "productName": "AirPods 8",
+    "productDescription": "Wireless with noise cancellation.",
+    "categoryName": "Accessories",
+    "categoryID": 105,
+    "dateCreate": "2023-04-08"
+  },
+  {
+    "id": 48,
+    "productName": "iPad 14",
+    "productDescription": "Powerful and lightweight.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2023-05-24"
+  },
+  {
+    "id": 49,
+    "productName": "iMac 3",
+    "productDescription": "High performance and sleek design.",
+    "categoryName": "Laptops",
+    "categoryID": 102,
+    "dateCreate": "2024-08-25"
+  },
+  {
+    "id": 50,
+    "productName": "iPad 3",
+    "productDescription": "Advanced health and connectivity features.",
+    "categoryName": "Smartphones",
+    "categoryID": 101,
+    "dateCreate": "2023-11-08"
+  }
+]
